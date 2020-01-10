@@ -18,4 +18,4 @@ El sistestema Hi-lo, permite al usuario la posibilidad de realizar un conteo de 
 
 #Ejercicio 5
 
-Al aplicar "set.seed(27)" en el ejercicio anterior,  el valor de cuenta corriente es de -5, lo que aumenta las probabilidades de que el conjunto de cartas en salir es de valor bajo a diferencia del ejercicio anterior. 
+Al aplicar "set.seed(27)" en el ejercicio anterior,  el valor de cuenta corriente es de -5, lo que aumenta las probabilidades de que el conjunto de cartas en salir es de valor bajo a diferencia del ejercicio anterior el cual si bien mostraba una tendencia, esta no era tan clara. 
